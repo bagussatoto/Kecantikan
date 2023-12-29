@@ -18,7 +18,7 @@
 ## Login 
 
 **User** <br>
-Email :  userbagus@gmail. <br>
+Email :  userbagus@gmail.com <br>
 Password : UserBagus1  <br>
 
 
