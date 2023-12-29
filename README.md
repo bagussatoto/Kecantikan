@@ -43,7 +43,7 @@ Password : Adminsatoto <br>
 |<h3>Notes  </h3>       |       Keterangan                                                                  |
 |-----------------------|-----------------------------------------------------------------------------------|
 |<b>Analisis   | </b> Analisis tren penjualan untuk membantu Anda membuat keputusan yang lebih baik. |
-|<b>ntegrasi | </b> Integrasi dengan peralatan kecantikan seperti mesin pembaca kode batang untuk memudahkan inventarisasi. |
+|<b>Integrasi | </b> Integrasi dengan peralatan kecantikan seperti mesin pembaca kode batang untuk memudahkan inventarisasi. |
 
 
 ## Cara Instalasi ke Server Lokal :
