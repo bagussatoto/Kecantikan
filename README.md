@@ -15,10 +15,19 @@
 | Jurusan        | S1 - Informatika                 |
 | Kampus         | Universitas Amikom Yogyakarta    |
 
+## Login 
+
+**User** <br>
+Email :  userbagus@gmail. <br>
+Password : UserBagus1  <br>
+
+
+**Admin** <br> 
+Email : admin@gmail.com <br>
+Password : Adminsatoto <br>
 
 
 ## Tampilan Website
-
 
 <img width="950" alt="344" src="https://github.com/bagussatoto/Kecantikan/assets/87259393/46bd74b4-d68a-4801-b25a-a3e174b2539f">
 <img width="946" alt="332" src="https://github.com/bagussatoto/Kecantikan/assets/87259393/948db39f-4095-4a64-a986-89601fd47c2b">
