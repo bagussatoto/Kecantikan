@@ -36,7 +36,7 @@ Password : Adminsatoto <br>
 <img width="945" alt="3" src="https://github.com/bagussatoto/Kecantikan/assets/87259393/fbdad20b-98cb-4467-82e1-88dd00689aba">
 
 
-## Link Drive DEMo
+## Link Drive DEMO
 
 https://drive.google.com/file/d/1qRm3mO5wgRSs4gPk5YC92Ht87dzneqmj/view?usp=drive_link
 
